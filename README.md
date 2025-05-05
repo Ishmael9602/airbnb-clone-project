@@ -37,7 +37,19 @@ Primary Pages
 | Listing Detailed View | Shows full property details with images and booking form.    | 
 | Simple Checkout View  | Streamlined payment and booking confirmation process.        | 
 
-
 Importance of User-Friendly Design
 A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.
+
+Figma Design Specifications
+Color Styles:
+- Primary: #FF5A5F (Brand color)
+- Secondary: #008489 (Accent color)
+- Background: #FFFFFF (Neutral background)
+- Text: #222222 (Main text color)
+- Secondary Text: #717171 (Subtext color)
+Typography:
+- Primary Font: Circular, Medium (500), 16px
+- Headings: Circular, Bold (700), 24px–32px
+- Secondary Text: Circular, Book (400), 14px
+This structured layout should align well with your project requirements while ensuring clarity and completeness. Let me know if you’d like refinements or additional details!
 
