@@ -65,7 +65,7 @@ This structured layout should align well with your project requirements while en
 | Product Owner       | Defines requirements, prioritizes features, represents stakeholders.            | 
 | Scrum Master        | Facilitates agile processes, removes blockers, organizes meetings.              | 
 
-## UI Component Patterns.
+## UI Component Patterns
 
 This section outlines the reusable UI components designed for consistency, efficiency, and maintainability.
 Planned Components
