@@ -3,7 +3,7 @@
 ## Overview
 Welcome to the *Airbnb Clone Project*, an initiative aimed at replicating key functionalities of the Airbnb platform. This project is part of the ALX program and serves as an introduction to software development principles, version control, and project structuring within a collaborative environment.
 
-## Industry Goals
+## Industry Goals.
 At the end of this program, you will have developed adequate knowledge and skills to implement any type of system. You will:
 
 - Understand the project scope.
@@ -12,13 +12,13 @@ At the end of this program, you will have developed adequate knowledge and skill
 - Utilize the necessary tools and technologies.
 - Fulfill your roles and responsibilities within the project.
 
-## Tech Stack
+## Tech Stack.
 
 - Frontend: HTML, CSS, JavaScript (React or similar framework)
 - Version Control: Git and GitHub
 - Design Tools: Figma for UI/UX design
 
-## UI/UX Design Planning
+## UI/UX Design Planning.
 Design Goals
 - Create an intuitive booking flow for a seamless user experience.
 - Maintain visual consistency using defined color schemes and typography.
@@ -52,4 +52,22 @@ Typography:
 - Headings: Circular, Bold (700), 24px–32px
 - Secondary Text: Circular, Book (400), 14px
 This structured layout should align well with your project requirements while ensuring clarity and completeness. Let me know if you’d like refinements or additional details!
+
+## Project Roles and Responsibilities.
+
+| Role                | Responsibilities                                                                | 
+| Project Manager     | Oversees timeline, coordinates team efforts, manages deliverables.              | 
+| Frontend Developers | Implements UI components, ensures responsive design, and optimizes performance. | 
+| Backend Developers  | Develops APIs, manages database, and implements business logic.                 | 
+| Designers           | Creates wireframes, maintains design system, ensures UX consistency.            | 
+| QA/Testers          | Writes test cases, performs functional and UI testing, reports bugs.            | 
+| DevOps Engineers    | Manages deployment, CI/CD pipeline, server infrastructure.                      | 
+| Product Owner       | Defines requirements, prioritizes features, represents stakeholders.            | 
+| Scrum Master        | Facilitates agile processes, removes blockers, organizes meetings.              | 
+
+
+
+
+
+
 
