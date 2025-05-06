@@ -113,6 +113,18 @@ Each role contributes to the scalability and reliability of the Airbnb Clone bac
 - Docker – Ensures consistent development environments
 - CI/CD Pipelines – Automates testing and deployment
 
+## Database Design
+
+Key entities:
+- Users – Manage accounts and bookings.
+- Properties – Hosts list properties for rent.
+- Bookings – Links users to reserved properties.
+- Reviews – Users rate properties after stay.
+- Payments – Secure transaction processing.
+Relationships:
+- A User can book multiple Properties.
+- A Booking belongs to a Property.
+- A Review is tied to a Booking.
 
 
 
