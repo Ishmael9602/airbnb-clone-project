@@ -4,7 +4,6 @@
 Welcome to the *Airbnb Clone Project*, an initiative aimed at replicating key functionalities of the Airbnb platform. This project is part of the ALX program and serves as an introduction to software development principles, version control, and project structuring within a collaborative environment.
 
 ## Industry Goals.
-At the end of this program, you will have developed adequate knowledge and skills to implement any type of system. You will:
 
 - Understand the project scope.
 - Identify key features to be implemented.
@@ -51,7 +50,7 @@ Typography:
 - Primary Font: Circular, Medium (500), 16px
 - Headings: Circular, Bold (700), 24px–32px
 - Secondary Text: Circular, Book (400), 14px
-This structured layout should align well with your project requirements while ensuring clarity and completeness. Let me know if you’d like refinements or additional details!
+
 
 ## Project Roles and Responsibilities.
 
@@ -67,7 +66,6 @@ This structured layout should align well with your project requirements while en
 
 ## UI Component Patterns
 
-This section outlines the reusable UI components designed for consistency, efficiency, and maintainability.
 Planned Components
 1.Navbar
  - Logo
@@ -125,6 +123,29 @@ Relationships:
 - A User can book multiple Properties.
 - A Booking belongs to a Property.
 - A Review is tied to a Booking.
+
+## Feature Breakdown
+- User Management – Secure registration, authentication, and profile handling.
+- Property Listings – Hosts can create, edit, and manage properties.
+- Booking System – Users can reserve properties and manage bookings.
+- Payments – Integrated transaction processing for secure payments.
+- Reviews & Ratings – Users provide feedback on properties.
+- Database Optimization – Efficient indexing and caching for better performance.
+
+## API Security
+
+- Authentication & Authorization – Secure user access and prevent unauthorized actions.
+- Rate Limiting – Controls API request frequency to prevent abuse.
+- Data Encryption – Protects sensitive information like user credentials and payments.
+- Input Validation – Prevents SQL injection and other security threats.
+- Monitoring & Logging – Tracks API activity to detect anomalies.
+
+## CI/CD Pipeline
+
+- Purpose – Automates testing, integration, and deployment for efficiency.
+- Key Tools – GitHub Actions, Docker, and CI/CD pipelines for seamless delivery.
+- Benefits – Ensures code quality, reduces deployment errors, and speeds up development.
+
 
 
 
