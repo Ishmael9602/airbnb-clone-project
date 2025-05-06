@@ -103,6 +103,15 @@ Each role contributes to the scalability and reliability of the Airbnb Clone bac
 - DevOps Engineer – Handles CI/CD pipelines, Docker containerization, and system scaling.
 - QA Engineer – Conducts testing, automates API validation, and resolves bugs pre-deployment.
 
+## Technology Stack
+
+- Django – Python framework for REST APIs
+- PostgreSQL – Relational database for secure data storage
+- GraphQL – Flexible and efficient data queries
+- Celery – Handles background tasks like notifications
+- Redis – Caching for performance optimization
+- Docker – Ensures consistent development environments
+- CI/CD Pipelines – Automates testing and deployment
 
 
 
