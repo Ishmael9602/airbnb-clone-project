@@ -95,6 +95,15 @@ Payment Processing: Integrate a payment system to handle transactions and record
 Review System: Allow users to leave reviews and ratings for properties.
 Data Optimization: Ensure efficient data retrieval and storage through database optimizations.
 
+## Team Roles & Responsibilities
+
+Each role contributes to the scalability and reliability of the Airbnb Clone backend.
+- Backend Developer – Develops API endpoints, implements business logic, and optimizes data retrieval.
+- Database Administrator – Manages PostgreSQL, ensures data integrity, and optimizes queries for performance.
+- DevOps Engineer – Handles CI/CD pipelines, Docker containerization, and system scaling.
+- QA Engineer – Conducts testing, automates API validation, and resolves bugs pre-deployment.
+
+
 
 
 
